@@ -1,6 +1,6 @@
 # 📊 Mutual Fund Monitor
 
-A professional desktop application built with **Electron, React, and TypeScript** that empowers investors to track mutual fund performance in real-time and receive instant notifications when NAV (Net Asset Value) corrections exceed user-defined thresholds.
+A cross-platform desktop application built with **Electron, React, and TypeScript** that empowers investors to track mutual fund performance in real-time and receive instant notifications when NAV (Net Asset Value) corrections exceed user-defined thresholds.
 
 ---
 
