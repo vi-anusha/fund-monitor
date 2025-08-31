@@ -20,6 +20,6 @@
 
 ![Alert Wireframe](/docs/wireframes/wireframe_6_alert_page.png)
 
-### Alerts Page
+### All Alerts Page
 
 ![All Alerts Wireframe](/docs/wireframes/wireframe_7_all_alerts.png)
