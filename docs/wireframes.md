@@ -22,4 +22,4 @@
 
 ### Alerts Page
 
-![All Alerts Wireframe](/docs/wireframes/wireframe_7_all_alerts_page.png)
+![All Alerts Wireframe](/docs/wireframes/wireframe_7_all_alerts.png)
