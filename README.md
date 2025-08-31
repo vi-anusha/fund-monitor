@@ -5,20 +5,22 @@ A cross-platform desktop application built with **Electron, React, and TypeScrip
 ---
 
 ## ✨ Key Features
-- 🔔 **Real-time NAV Monitoring** – Stay updated with instant correction alerts.  
-- 📈 **Interactive Financial Charts** – Visualize performance across monthly, yearly, 3Y, and 5Y horizons.  
-- ⚡ **Customizable Threshold Alerts** – Configure email and desktop notifications.  
-- 💼 **Portfolio Tracking** – Compare and analyze multiple mutual funds.  
-- 🖥️ **Cross-Platform Support** – Seamlessly works on **Windows, macOS, and Linux**.  
+
+- 🔔 **Real-time NAV Monitoring** – Stay updated with instant correction alerts.
+- 📈 **Interactive Financial Charts** – Visualize performance across monthly, yearly, 3Y, and 5Y horizons.
+- ⚡ **Customizable Threshold Alerts** – Configure email and desktop notifications.
+- 💼 **Portfolio Tracking** – Compare and analyze multiple mutual funds.
+- 🖥️ **Cross-Platform Support** – Seamlessly works on **Windows, macOS, and Linux**.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** Electron, React, TypeScript, Tailwind CSS  
-- **Backend/Data Layer:** Node.js, Express, SQLite, Redis, WebSocket  
-- **Visualization:** Chart.js / D3.js  
-- **Testing & Quality:** Jest, ESLint, Prettier  
-- **CI/CD:** GitHub Actions  
+
+- **Frontend:** Electron, React, TypeScript, Tailwind CSS
+- **Backend/Data Layer:** Node.js, Express, SQLite, Redis, WebSocket
+- **Visualization:** Chart.js / D3.js
+- **Testing & Quality:** Jest, ESLint, Prettier
+- **CI/CD:** GitHub Actions
 
 ---
 
