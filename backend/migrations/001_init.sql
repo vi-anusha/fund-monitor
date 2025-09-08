@@ -10,7 +10,7 @@ DROP TABLE IF EXISTS alerts;
 
 CREATE TABLE IF NOT EXISTS funds (
 	id INTEGER PRIMARY KEY AUTOINCREMENT,
-	code TEXT unique,
+	code INTEGER unique,
 	name TEXT,
 	category TEXT
 );
@@ -21,6 +21,7 @@ CREATE TABLE IF NOT EXISTS nav_history (
 	id INTEGER PRIMARY KEY AUTOINCREMENT,
 	fund_id INTEGER,
 	date date,
+	nav REAL,
 	correction REAL,
 	FOREIGN KEY (fund_id)
 		REFERENCES funds (id)
